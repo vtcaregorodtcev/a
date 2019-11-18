@@ -1,0 +1,16 @@
+{
+    "name": "@vtcaregorodtcev/a",
+    "version": "0.0.1",
+    "description": "Create iterable arrays in declarative way wherever you want",
+    "license": "unlicense",
+    "repository": "vtcaregorodtcev/a",
+    "main": "a.js",
+    "keywords": [
+        "array",
+        "npm",
+        "package",
+        "vtcaregorodtcev",
+        "declarative",
+        "iterable"
+    ]
+}
